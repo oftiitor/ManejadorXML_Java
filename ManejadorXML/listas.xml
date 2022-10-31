@@ -1,0 +1,44 @@
+<listas>
+	<lista>
+		<nombre>Motivación</nombre>
+		<numeroCanciones>2</numeroCanciones>
+		<canciones>
+			<cancion>
+				<titulo>I'll Make A Man Out Of You</titulo>
+				<artista>Donny Osmond</artista>
+				<!--  Duración en segundos  -->
+				<duracion>200</duracion>
+			</cancion>
+			<cancion>
+				<titulo>Eye of the Tiger</titulo>
+				<artista>Survivor</artista>
+				<!--  Duración en segundos  -->
+				<duracion>165</duracion>
+			</cancion>
+		</canciones>
+	</lista>
+	<lista>
+		<nombre>A llorar</nombre>
+		<numeroCanciones>3</numeroCanciones>
+		<canciones>
+			<cancion>
+				<titulo>Fix You</titulo>
+				<artista>Coldplay</artista>
+				<!--  Duración en segundos  -->
+				<duracion>249</duracion>
+			</cancion>
+			<cancion>
+				<titulo>Hallelujah</titulo>
+				<artista>Leonard Cohen</artista>
+				<!--  Duración en segundos  -->
+				<duracion>276</duracion>
+			</cancion>
+			<cancion>
+				<titulo>Amorfoda</titulo>
+				<artista>Bad Bunny</artista>
+				<!--  Duración en segundos  -->
+				<duracion>153</duracion>
+			</cancion>
+		</canciones>
+	</lista>
+</listas>
